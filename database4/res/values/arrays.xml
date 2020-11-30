@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="sort_names">
+		<item>By Nama, Ascending</item>
+		<item>By Nama, Descending</item>
+		<item>By Jekel</item>
+		<item>By Alamat, Ascending</item>
+		<item>By Alamat, Descending</item>
+	</string-array>
+	<string-array name="sort_clauses">
+		<item>nama ASC</item>
+		<item>nama DESC</item>
+		<item>jekel, name ASC</item>
+		<item>alamat ASC</item>
+		<item>alamat DESC</item>
+	</string-array>
+</resources>
